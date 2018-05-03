@@ -103,10 +103,7 @@
         "-DHAVE_CONFIG_H=1",
         "-O3",
         "-DFLOATING_POINT"
-      ],
-      "pod_target_xcconfig": {
-        "HEADER_SEARCH_PATHS": "\"${PODS_ROOT}/libopus/celt\""
-      }
+      ]
     }
   ]
 }
